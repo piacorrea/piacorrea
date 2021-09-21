@@ -28,7 +28,7 @@ const pia = {
 
 - 🔭 Estoy actualmente en búsqueda de nuevos desafíos laborales.
 - 🌱 Estoy actualmente cursando la última etapa del bootcamp de Henry (fecha aproximada de certificación fines de octubre 2021).
-- 📫 Conecta conmigo:
-     - [linkedin] (https://www.linkedin.com/in/pia-correa/)
-     - [facebook] (https://www.facebook.com/pia.correacantin)
-     - [email] (pia.correac@usach.cl)
+
+📫 Conecta conmigo:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/piacorrea/piacorrea/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/pia-correa//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/piacorreac//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/pia.correacantin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](pia.correac@usach.cl)  
